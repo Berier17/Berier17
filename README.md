@@ -1,10 +1,5 @@
 <div align="center">
 
-
-
-https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
-
-
 <!-- Animated Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Data+Specialist;Python+Expert;Power+BI+Developer" alt="Typing SVG" />
@@ -16,6 +11,7 @@ https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 I am a passionate **Data Specialist** and **Power BI Developer**, focusing on extracting insights from data using Python and Power BI. I love visualizing complex data and building efficient data pipelines.
 
 ---
+https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 
 <!-- Skills Section -->
 ### 🛠️ Languages and Tools
