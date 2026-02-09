@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Berier17&theme=radical" alt="streak graph" />
+
 </div>
 
 ---
