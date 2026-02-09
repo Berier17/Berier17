@@ -41,6 +41,12 @@ https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 
 <div align="center">
 
+<!-- Database & BI -->
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
 </div>
 
 ---
