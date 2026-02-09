@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 <!-- Socials -->
 <div align="center">
 <h3>📫 Connect with me</h3>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/ali-elberier-da">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:ali.elberier14@gmail.com">
