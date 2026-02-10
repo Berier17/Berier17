@@ -56,18 +56,20 @@ I am a passionate **Data Specialist** and **Power BI Developer**, focusing on ex
 | **[⚽ Football Player Valuation](https://github.com/Berier17/football-player-valuation)** | **Model Selection Strategy:** Benchmarked Linear Regression vs. XGBoost. Selected **XGBoost** as the champion model based on **"Cash is King"** logic—prioritizing the minimization of financial error over raw $R^2$ metrics. | `Python` `XGBoost` `Scikit-Learn` `Pandas` `Web Scraping` |
 | **[📉 Bank Customer Churn](https://github.com/Berier17/customer-churn-prediction)** | **End-to-End Deployment:** Developed a classification model to identify at-risk customers. Containerized the application with **Docker** and deployed it as a scalable web service. | `Flask` `Docker` `GCP/Azure` `REST API` |
 ---
-
+  
 <!-- Socials -->
-<div align="center">
+<div align="center" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
 <h3>📫 Connect with me</h3>
 <a href="https://linkedin.com/in/ali-elberier-da">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:ali.elberier14@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-</div>
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-</div>
-
+  <br />
+  <br />
+  
+  <p>Or copy my address:</p>
+  <code style="font-size: 1.2em; color: #58a6ff;">ali.elberier14@gmail.com</code>
 </div>
