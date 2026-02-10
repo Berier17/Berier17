@@ -48,7 +48,16 @@ https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
 </div>
+---
+### 🚀 Selected Technical Projects
+*A mix of Data Science, Machine Learning, and Business Intelligence initiatives.*
 
+| Project | Technical Implementation | Tech Stack |
+| :--- | :--- | :--- |
+| **[📚 Intelligent Book Recommender](#)** | **NLP & Semantic Search:** Built a content-based recommendation engine using **TF-IDF** and **Cosine Similarity** to match readers with books based on plot summaries and genre embeddings. | `Python` `NLP` `Scikit-Learn` `Pandas` |
+| **[🏛️ Abu Dhabi Museum Analytics](#)** | **Advanced BI & Data Modeling:** Designed a multi-page interactive dashboard to analyze visitor footfall and ticket revenue. Implemented **Row-Level Security (RLS)** and complex **DAX** measures for Year-over-Year growth. | `Power BI` `DAX` `Power Query` `SQL` |
+| **[⚽ Football Player Valuation](#)** | **Predictive Modeling:** Built a regression model to estimate market value of players. Engineered features from scraped performance data and deployed the model via **Streamlit** for real-time inference. | `Python` `Scikit-Learn` `Web Scraping` `Streamlit` |
+| **[📉 Bank Churn Predictor](#)** | **End-to-End Deployment:** Developed a classification model to identify at-risk customers. Containerized the application with **Docker** and deployed it as a scalable web service. | `Flask` `Docker` `GCP/Azure` `XGBoost` |
 ---
 
 <!-- Socials -->
