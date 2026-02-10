@@ -6,7 +6,7 @@
 </a>
 
 <!-- Intro -->
-### Hi there 👋, I'm Ali
+### Hi there 👋, This is Ali
 
 I am a passionate **Data Specialist** and **Power BI Developer**, focusing on extracting insights from data using Python and Power BI. I love visualizing complex data and building efficient data pipelines.
 
