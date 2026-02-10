@@ -41,7 +41,6 @@ https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 
 <div align="center">
 
----
 ### 🚀 Technical Projects & Case Studies
 *Click on the project names to view the source code.*
 
