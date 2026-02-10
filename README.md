@@ -42,14 +42,14 @@ https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
 <div align="center">
 
 ### 🚀 Technical Projects & Case Studies
-*Click on the project names to view the source code.*
+*Click on the project names to view the full project repository.*
 
 | Project | Technical Implementation | Tech Stack |
 | :--- | :--- | :--- |
 | **[📚 Semantic Book Recommender](https://github.com/Berier17/semantic-book-recommender)** | **Deep Learning & NLP:** Built a semantic search engine using **Sentence Transformers** (BERT) to generate vector embeddings. Recommends books based on contextual plot similarity rather than simple keyword matching. | `Python` `HuggingFace` `PyTorch` `Vector Embeddings` |
-| **[🏛️ Abu Dhabi Museum Analytics]([#](https://github.com/Berier17/Guggenheim-Abu-Dhabi-Museum-Dashboard))** | **Enterprise BI Dashboard:** Designed a multi-page interactive dashboard to analyze visitor footfall and ticket revenue. Implemented **Row-Level Security (RLS)** and complex **DAX** measures for Year-over-Year growth. | `Power BI` `DAX` `Power Query` `SQL` |
+| **[🏛️ Abu Dhabi Museum Analytics](https://github.com/Berier17/Guggenheim-Abu-Dhabi-Museum-Dashboard)** | **Enterprise BI Dashboard:** Designed a multi-page interactive dashboard to analyze visitor footfall and ticket revenue. Implemented **Row-Level Security (RLS)** and complex **DAX** measures for Year-over-Year growth. | `Power BI` `DAX` `Power Query` `SQL` |
 | **[⚽ Football Player Valuation](https://github.com/Berier17/football-player-valuation)** | **Model Selection Strategy:** Benchmarked Linear Regression vs. XGBoost. Selected **XGBoost** as the champion model based on **"Cash is King"** logic—prioritizing the minimization of financial error over raw $R^2$ metrics. | `Python` `XGBoost` `Scikit-Learn` `Pandas` `Web Scraping` |
-| **[📉 Bank Customer Churn]([#](https://github.com/Berier17/customer-churn-prediction))** | **End-to-End Deployment:** Developed a classification model to identify at-risk customers. Containerized the application with **Docker** and deployed it as a scalable web service. | `Flask` `Docker` `GCP/Azure` `REST API` |
+| **[📉 Bank Customer Churn](https://github.com/Berier17/customer-churn-prediction)** | **End-to-End Deployment:** Developed a classification model to identify at-risk customers. Containerized the application with **Docker** and deployed it as a scalable web service. | `Flask` `Docker` `GCP/Azure` `REST API` |
 ---
 
 <!-- Socials -->
