@@ -11,7 +11,10 @@
 I am a passionate **Data Specialist** and **Power BI Developer**, focusing on extracting insights from data using Python and Power BI. I love visualizing complex data and building efficient data pipelines.
 
 ---
-https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
+<div align="center">
+  <video src="[PASTE_YOUR_NEW_GITHUB_LINK_HERE](https://github.com/user-attachments/assets/0f028007-e7d4-4c6f-83b2-25de6831e046
+)" controls autoplay loop muted playsinline width="100%"></video>
+</div>
 
 <!-- Skills Section -->
 ### 🛠️ Languages and Tools
